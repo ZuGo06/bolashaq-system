@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This is my first dashboard that was created with the React. 
+In which I used styled components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
